@@ -18,4 +18,5 @@ add_library(untitled STATIC library.c
         practive/aposint.c
         practive/midtem.c
         practive/BST.c
-        practive/recursiveLL.c)
+        practive/recursiveLL.c
+        practive/mthreaing.c)

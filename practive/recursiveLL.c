@@ -40,6 +40,7 @@ void printlist(struct List* l) {
     print_helper(l -> head);
 
 }
+void clean_up()
 
 int main() {
     char* text= "once upon a time";
